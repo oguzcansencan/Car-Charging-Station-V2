@@ -41,8 +41,8 @@ public class Main extends LogFile {
 		scheduler.schedule(getRunnableNewCustomer(st2, u8), 12, TimeUnit.SECONDS);
 		
 		// Changing weathers for two stations
-		scheduler.scheduleAtFixedRate(getRunnableWeatherChange(st1, scheduler), 0, 5, TimeUnit.SECONDS);
-		scheduler.scheduleAtFixedRate(getRunnableWeatherChange(st2, scheduler), 1, 7, TimeUnit.SECONDS);
+		scheduler.scheduleAtFixedRate(getRunnableWeatherChange(st1), 0, 5, TimeUnit.SECONDS);
+		scheduler.scheduleAtFixedRate(getRunnableWeatherChange(st2), 1, 7, TimeUnit.SECONDS);
 		
 		scheduler.schedule(getRunnableShutdown(scheduler), 100, TimeUnit.SECONDS);
 		
@@ -55,7 +55,7 @@ public class Main extends LogFile {
 		};
 	}
 	
-	private static Runnable getRunnableWeatherChange(Station station, ScheduledExecutorService scheduler) {
+	private static Runnable getRunnableWeatherChange(Station station) {
 		// Weather changes randomly
 		return () -> {
 			Random r = new Random();

@@ -3,11 +3,7 @@ import java.util.List;
 import java.util.Random;
 
 public class Station {
-	
-	public static final int ElectricityChargingEnergyUnit = 10;
-	public static final int WindChargingEnergyUnit = 3;
-	public static final int SolarChargingEnergyUnit = 5;
-	
+		
 	public static final String[] weatherString = {"Rainy", "Windy", "Sunny"};
 	public static final String[] energySourceString = {"Electricity", "Wind", "Solar"};
 	public static final int[] chargingEnergyUnits = {10, 3, 5};
@@ -141,13 +137,7 @@ public class Station {
 	// Generating energy to the station
 	public void generateEnergy(int num) {
 		synchronized (this) {
-			String weatherString = "Electricity";
-			if(weather == 1) {
-				weatherString = "Wind";				
-			}else if(weather == 2) {
-				weatherString = "Solar";
-			}
-			
+			String weatherString = Station.weatherString[weather];			
 			System.out.print(name + ": Energy Generated (" + weatherString + "): " + currentEnergyUnit + "+" + num + "=");
 			currentEnergyUnit += num;
 			if (currentEnergyUnit > energyCapacity)
