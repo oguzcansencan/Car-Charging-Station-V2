@@ -1,0 +1,670 @@
+Þub 02, 2024 10:20:14 ÖS LogFile SystemFunctionalityStartedlog
+INFO: System of station changed started.
+Þub 02, 2024 10:20:14 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 106 - To: 116
+Þub 02, 2024 10:20:14 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 116 - To: 116 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:14 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 116/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:14 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 100 - To: 103
+Þub 02, 2024 10:20:14 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 103 - To: 103 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:14 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 103/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:14 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:15 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Windy - To: Rainy
+Þub 02, 2024 10:20:16 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 116 - To: 119
+Þub 02, 2024 10:20:16 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 119 - To: 119 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:16 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 119/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:16 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 103 - To: 113
+Þub 02, 2024 10:20:16 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 113 - To: 113 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:16 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 113/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:18 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 119 - To: 122
+Þub 02, 2024 10:20:18 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 122 - To: 122 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:18 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 122/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:18 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 113 - To: 123
+Þub 02, 2024 10:20:18 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 123 - To: 123 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:18 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 123/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:19 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Windy - To: Rainy
+Þub 02, 2024 10:20:20 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 122 - To: 132
+Þub 02, 2024 10:20:20 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 132 - To: 132 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 132/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:20 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 123 - To: 133
+Þub 02, 2024 10:20:20 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 133 - To: 133 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 133/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:20:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 132/300 - Slot #1 user#1 (18/40) - Slot #2 None
+Þub 02, 2024 10:20:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 133/300 - Slot #1 user#3 (18/40) - Slot #2 None
+Þub 02, 2024 10:20:21 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 132/300 - Slot #1 user#1 (18/40) - Slot #2 user#2 (14/40)
+Þub 02, 2024 10:20:22 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 132 - To: 142
+Þub 02, 2024 10:20:22 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 142 - To: 140 - Slot #1 user#1 (19/40) - Slot #2 user#2 (15/40)
+Þub 02, 2024 10:20:22 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 140/300 - Slot #1 user#1 (19/40) - Slot #2 user#2 (15/40)
+Þub 02, 2024 10:20:22 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 133 - To: 143
+Þub 02, 2024 10:20:22 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 143 - To: 142 - Slot #1 user#3 (19/40) - Slot #2 None
+Þub 02, 2024 10:20:22 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 142/300 - Slot #1 user#3 (19/40) - Slot #2 None
+Þub 02, 2024 10:20:24 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 140 - To: 150
+Þub 02, 2024 10:20:24 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 150 - To: 148 - Slot #1 user#1 (20/40) - Slot #2 user#2 (16/40)
+Þub 02, 2024 10:20:24 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 148/300 - Slot #1 user#1 (20/40) - Slot #2 user#2 (16/40)
+Þub 02, 2024 10:20:24 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 142 - To: 152
+Þub 02, 2024 10:20:24 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 152 - To: 151 - Slot #1 user#3 (20/40) - Slot #2 None
+Þub 02, 2024 10:20:24 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 151/300 - Slot #1 user#3 (20/40) - Slot #2 None
+Þub 02, 2024 10:20:24 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:26 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 148 - To: 151
+Þub 02, 2024 10:20:26 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 151 - To: 149 - Slot #1 user#1 (21/40) - Slot #2 user#2 (17/40)
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 149/300 - Slot #1 user#1 (21/40) - Slot #2 user#2 (17/40)
+Þub 02, 2024 10:20:26 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 151 - To: 161
+Þub 02, 2024 10:20:26 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 161 - To: 160 - Slot #1 user#3 (21/40) - Slot #2 None
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 160/300 - Slot #1 user#3 (21/40) - Slot #2 None
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 160/300 - Slot #1 user#3 (21/40) - Slot #2 user#4 (11/40)
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 160/300 - Slot #1 user#3 (21/40) - Slot #2 user#4 (11/40) - Queue #1 user#5 (15/40)
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 160/300 - Slot #1 user#3 (21/40) - Slot #2 user#4 (11/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40)
+Þub 02, 2024 10:20:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 160/300 - Slot #1 user#3 (21/40) - Slot #2 user#4 (11/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:28 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 149 - To: 152
+Þub 02, 2024 10:20:28 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 152 - To: 150 - Slot #1 user#1 (22/40) - Slot #2 user#2 (18/40)
+Þub 02, 2024 10:20:28 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 150/300 - Slot #1 user#1 (22/40) - Slot #2 user#2 (18/40)
+Þub 02, 2024 10:20:28 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 160 - To: 170
+Þub 02, 2024 10:20:28 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 170 - To: 168 - Slot #1 user#3 (22/40) - Slot #2 user#4 (12/40)
+Þub 02, 2024 10:20:28 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 168/300 - Slot #1 user#3 (22/40) - Slot #2 user#4 (12/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:29 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Windy - To: Rainy
+Þub 02, 2024 10:20:29 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:30 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 150 - To: 160
+Þub 02, 2024 10:20:30 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 160 - To: 158 - Slot #1 user#1 (23/40) - Slot #2 user#2 (19/40)
+Þub 02, 2024 10:20:30 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 158/300 - Slot #1 user#1 (23/40) - Slot #2 user#2 (19/40)
+Þub 02, 2024 10:20:30 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 168 - To: 171
+Þub 02, 2024 10:20:30 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 171 - To: 169 - Slot #1 user#3 (23/40) - Slot #2 user#4 (13/40)
+Þub 02, 2024 10:20:30 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 169/300 - Slot #1 user#3 (23/40) - Slot #2 user#4 (13/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:32 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 158 - To: 168
+Þub 02, 2024 10:20:32 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 168 - To: 166 - Slot #1 user#1 (24/40) - Slot #2 user#2 (20/40)
+Þub 02, 2024 10:20:32 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 166/300 - Slot #1 user#1 (24/40) - Slot #2 user#2 (20/40)
+Þub 02, 2024 10:20:32 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 169 - To: 172
+Þub 02, 2024 10:20:32 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 172 - To: 170 - Slot #1 user#3 (24/40) - Slot #2 user#4 (14/40)
+Þub 02, 2024 10:20:32 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 170/300 - Slot #1 user#3 (24/40) - Slot #2 user#4 (14/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:34 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 166 - To: 176
+Þub 02, 2024 10:20:34 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 176 - To: 174 - Slot #1 user#1 (25/40) - Slot #2 user#2 (21/40)
+Þub 02, 2024 10:20:34 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 174/300 - Slot #1 user#1 (25/40) - Slot #2 user#2 (21/40)
+Þub 02, 2024 10:20:34 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 170 - To: 173
+Þub 02, 2024 10:20:34 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 173 - To: 171 - Slot #1 user#3 (25/40) - Slot #2 user#4 (15/40)
+Þub 02, 2024 10:20:34 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 171/300 - Slot #1 user#3 (25/40) - Slot #2 user#4 (15/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:36 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 174 - To: 184
+Þub 02, 2024 10:20:36 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 184 - To: 182 - Slot #1 user#1 (26/40) - Slot #2 user#2 (22/40)
+Þub 02, 2024 10:20:36 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 182/300 - Slot #1 user#1 (26/40) - Slot #2 user#2 (22/40)
+Þub 02, 2024 10:20:36 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 171 - To: 174
+Þub 02, 2024 10:20:36 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 174 - To: 172 - Slot #1 user#3 (26/40) - Slot #2 user#4 (16/40)
+Þub 02, 2024 10:20:36 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 172/300 - Slot #1 user#3 (26/40) - Slot #2 user#4 (16/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:36 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Windy - To: Rainy
+Þub 02, 2024 10:20:38 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 182 - To: 192
+Þub 02, 2024 10:20:38 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 192 - To: 190 - Slot #1 user#1 (27/40) - Slot #2 user#2 (23/40)
+Þub 02, 2024 10:20:38 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 190/300 - Slot #1 user#1 (27/40) - Slot #2 user#2 (23/40)
+Þub 02, 2024 10:20:38 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 172 - To: 182
+Þub 02, 2024 10:20:38 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 182 - To: 180 - Slot #1 user#3 (27/40) - Slot #2 user#4 (17/40)
+Þub 02, 2024 10:20:38 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 180/300 - Slot #1 user#3 (27/40) - Slot #2 user#4 (17/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:39 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:40 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 190 - To: 193
+Þub 02, 2024 10:20:40 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 193 - To: 191 - Slot #1 user#1 (28/40) - Slot #2 user#2 (24/40)
+Þub 02, 2024 10:20:40 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 191/300 - Slot #1 user#1 (28/40) - Slot #2 user#2 (24/40)
+Þub 02, 2024 10:20:40 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 180 - To: 190
+Þub 02, 2024 10:20:40 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 190 - To: 188 - Slot #1 user#3 (28/40) - Slot #2 user#4 (18/40)
+Þub 02, 2024 10:20:40 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 188/300 - Slot #1 user#3 (28/40) - Slot #2 user#4 (18/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:42 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 191 - To: 194
+Þub 02, 2024 10:20:42 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 194 - To: 192 - Slot #1 user#1 (29/40) - Slot #2 user#2 (25/40)
+Þub 02, 2024 10:20:42 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 192/300 - Slot #1 user#1 (29/40) - Slot #2 user#2 (25/40)
+Þub 02, 2024 10:20:42 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 188 - To: 198
+Þub 02, 2024 10:20:42 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 198 - To: 196 - Slot #1 user#3 (29/40) - Slot #2 user#4 (19/40)
+Þub 02, 2024 10:20:42 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 196/300 - Slot #1 user#3 (29/40) - Slot #2 user#4 (19/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:44 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 192 - To: 195
+Þub 02, 2024 10:20:44 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 195 - To: 193 - Slot #1 user#1 (30/40) - Slot #2 user#2 (26/40)
+Þub 02, 2024 10:20:44 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 193/300 - Slot #1 user#1 (30/40) - Slot #2 user#2 (26/40)
+Þub 02, 2024 10:20:44 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 196 - To: 206
+Þub 02, 2024 10:20:44 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 206 - To: 204 - Slot #1 user#3 (30/40) - Slot #2 user#4 (20/40)
+Þub 02, 2024 10:20:44 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 204/300 - Slot #1 user#3 (30/40) - Slot #2 user#4 (20/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:46 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 193 - To: 196
+Þub 02, 2024 10:20:46 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 196 - To: 194 - Slot #1 user#1 (31/40) - Slot #2 user#2 (27/40)
+Þub 02, 2024 10:20:46 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 194/300 - Slot #1 user#1 (31/40) - Slot #2 user#2 (27/40)
+Þub 02, 2024 10:20:46 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 204 - To: 214
+Þub 02, 2024 10:20:46 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 214 - To: 212 - Slot #1 user#3 (31/40) - Slot #2 user#4 (21/40)
+Þub 02, 2024 10:20:46 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 212/300 - Slot #1 user#3 (31/40) - Slot #2 user#4 (21/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:48 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 194 - To: 197
+Þub 02, 2024 10:20:48 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 197 - To: 195 - Slot #1 user#1 (32/40) - Slot #2 user#2 (28/40)
+Þub 02, 2024 10:20:48 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 195/300 - Slot #1 user#1 (32/40) - Slot #2 user#2 (28/40)
+Þub 02, 2024 10:20:48 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 212 - To: 222
+Þub 02, 2024 10:20:48 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 222 - To: 220 - Slot #1 user#3 (32/40) - Slot #2 user#4 (22/40)
+Þub 02, 2024 10:20:48 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 220/300 - Slot #1 user#3 (32/40) - Slot #2 user#4 (22/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:49 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Windy - To: Rainy
+Þub 02, 2024 10:20:50 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 195 - To: 205
+Þub 02, 2024 10:20:50 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 205 - To: 203 - Slot #1 user#1 (33/40) - Slot #2 user#2 (29/40)
+Þub 02, 2024 10:20:50 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 203/300 - Slot #1 user#1 (33/40) - Slot #2 user#2 (29/40)
+Þub 02, 2024 10:20:50 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 220 - To: 230
+Þub 02, 2024 10:20:50 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 230 - To: 228 - Slot #1 user#3 (33/40) - Slot #2 user#4 (23/40)
+Þub 02, 2024 10:20:50 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 228/300 - Slot #1 user#3 (33/40) - Slot #2 user#4 (23/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:50 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:52 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 203 - To: 213
+Þub 02, 2024 10:20:52 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 213 - To: 211 - Slot #1 user#1 (34/40) - Slot #2 user#2 (30/40)
+Þub 02, 2024 10:20:52 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 211/300 - Slot #1 user#1 (34/40) - Slot #2 user#2 (30/40)
+Þub 02, 2024 10:20:52 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 228 - To: 231
+Þub 02, 2024 10:20:52 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 231 - To: 229 - Slot #1 user#3 (34/40) - Slot #2 user#4 (24/40)
+Þub 02, 2024 10:20:52 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 229/300 - Slot #1 user#3 (34/40) - Slot #2 user#4 (24/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:54 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 211 - To: 221
+Þub 02, 2024 10:20:54 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 221 - To: 219 - Slot #1 user#1 (35/40) - Slot #2 user#2 (31/40)
+Þub 02, 2024 10:20:54 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 219/300 - Slot #1 user#1 (35/40) - Slot #2 user#2 (31/40)
+Þub 02, 2024 10:20:54 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 229 - To: 232
+Þub 02, 2024 10:20:54 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 232 - To: 230 - Slot #1 user#3 (35/40) - Slot #2 user#4 (25/40)
+Þub 02, 2024 10:20:54 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 230/300 - Slot #1 user#3 (35/40) - Slot #2 user#4 (25/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:54 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:20:56 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 219 - To: 222
+Þub 02, 2024 10:20:56 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 222 - To: 220 - Slot #1 user#1 (36/40) - Slot #2 user#2 (32/40)
+Þub 02, 2024 10:20:56 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 220/300 - Slot #1 user#1 (36/40) - Slot #2 user#2 (32/40)
+Þub 02, 2024 10:20:56 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 230 - To: 233
+Þub 02, 2024 10:20:56 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 233 - To: 231 - Slot #1 user#3 (36/40) - Slot #2 user#4 (26/40)
+Þub 02, 2024 10:20:56 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 231/300 - Slot #1 user#3 (36/40) - Slot #2 user#4 (26/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:58 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 220 - To: 223
+Þub 02, 2024 10:20:58 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 223 - To: 221 - Slot #1 user#1 (37/40) - Slot #2 user#2 (33/40)
+Þub 02, 2024 10:20:58 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 221/300 - Slot #1 user#1 (37/40) - Slot #2 user#2 (33/40)
+Þub 02, 2024 10:20:58 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 231 - To: 234
+Þub 02, 2024 10:20:58 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 234 - To: 232 - Slot #1 user#3 (37/40) - Slot #2 user#4 (27/40)
+Þub 02, 2024 10:20:58 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 232/300 - Slot #1 user#3 (37/40) - Slot #2 user#4 (27/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:20:59 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Windy - To: Rainy
+Þub 02, 2024 10:21:00 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 221 - To: 231
+Þub 02, 2024 10:21:00 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 231 - To: 229 - Slot #1 user#1 (38/40) - Slot #2 user#2 (34/40)
+Þub 02, 2024 10:21:00 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 229/300 - Slot #1 user#1 (38/40) - Slot #2 user#2 (34/40)
+Þub 02, 2024 10:21:00 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 232 - To: 235
+Þub 02, 2024 10:21:00 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 235 - To: 233 - Slot #1 user#3 (38/40) - Slot #2 user#4 (28/40)
+Þub 02, 2024 10:21:00 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 233/300 - Slot #1 user#3 (38/40) - Slot #2 user#4 (28/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:21:02 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 229 - To: 239
+Þub 02, 2024 10:21:02 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 239 - To: 237 - Slot #1 user#1 (39/40) - Slot #2 user#2 (35/40)
+Þub 02, 2024 10:21:02 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 237/300 - Slot #1 user#1 (39/40) - Slot #2 user#2 (35/40)
+Þub 02, 2024 10:21:02 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 233 - To: 236
+Þub 02, 2024 10:21:02 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 236 - To: 234 - Slot #1 user#3 (39/40) - Slot #2 user#4 (29/40)
+Þub 02, 2024 10:21:02 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 234/300 - Slot #1 user#3 (39/40) - Slot #2 user#4 (29/40) - Queue #1 user#5 (15/40) - Queue #2 user#6 (11/40) - Queue #3 user#7 (12/40)
+Þub 02, 2024 10:21:04 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 237 - To: 247
+Þub 02, 2024 10:21:04 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 247 - To: 245 - Slot #1 user#1 (40/40) - Slot #2 user#2 (36/40)
+Þub 02, 2024 10:21:04 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 245/300 - Slot #1 None - Slot #2 user#2 (36/40)
+Þub 02, 2024 10:21:04 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 234 - To: 237
+Þub 02, 2024 10:21:04 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 237 - To: 235 - Slot #1 user#3 (40/40) - Slot #2 user#4 (30/40)
+Þub 02, 2024 10:21:04 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 235/300 - Slot #1 user#5 (15/40) - Slot #2 user#4 (30/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:04 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:21:04 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Windy - To: Rainy
+Þub 02, 2024 10:21:06 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 245 - To: 248
+Þub 02, 2024 10:21:06 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 248 - To: 247 - Slot #1 None - Slot #2 user#2 (37/40)
+Þub 02, 2024 10:21:06 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 247/300 - Slot #1 None - Slot #2 user#2 (37/40)
+Þub 02, 2024 10:21:06 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 235 - To: 245
+Þub 02, 2024 10:21:06 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 245 - To: 243 - Slot #1 user#5 (16/40) - Slot #2 user#4 (31/40)
+Þub 02, 2024 10:21:06 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 243/300 - Slot #1 user#5 (16/40) - Slot #2 user#4 (31/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:08 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 247 - To: 250
+Þub 02, 2024 10:21:08 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 250 - To: 249 - Slot #1 None - Slot #2 user#2 (38/40)
+Þub 02, 2024 10:21:08 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 249/300 - Slot #1 None - Slot #2 user#2 (38/40)
+Þub 02, 2024 10:21:08 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 243 - To: 253
+Þub 02, 2024 10:21:08 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 253 - To: 251 - Slot #1 user#5 (17/40) - Slot #2 user#4 (32/40)
+Þub 02, 2024 10:21:08 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 251/300 - Slot #1 user#5 (17/40) - Slot #2 user#4 (32/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:10 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 249 - To: 252
+Þub 02, 2024 10:21:10 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 252 - To: 251 - Slot #1 None - Slot #2 user#2 (39/40)
+Þub 02, 2024 10:21:10 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 251/300 - Slot #1 None - Slot #2 user#2 (39/40)
+Þub 02, 2024 10:21:10 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 251 - To: 261
+Þub 02, 2024 10:21:10 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 261 - To: 259 - Slot #1 user#5 (18/40) - Slot #2 user#4 (33/40)
+Þub 02, 2024 10:21:10 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 259/300 - Slot #1 user#5 (18/40) - Slot #2 user#4 (33/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:12 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 251 - To: 254
+Þub 02, 2024 10:21:12 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 254 - To: 253 - Slot #1 None - Slot #2 user#2 (40/40)
+Þub 02, 2024 10:21:12 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 253/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:12 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 259 - To: 269
+Þub 02, 2024 10:21:12 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 269 - To: 267 - Slot #1 user#5 (19/40) - Slot #2 user#4 (34/40)
+Þub 02, 2024 10:21:12 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 267/300 - Slot #1 user#5 (19/40) - Slot #2 user#4 (34/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:14 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 253 - To: 256
+Þub 02, 2024 10:21:14 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 256 - To: 256 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:14 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 256/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:14 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 267 - To: 277
+Þub 02, 2024 10:21:14 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 277 - To: 275 - Slot #1 user#5 (20/40) - Slot #2 user#4 (35/40)
+Þub 02, 2024 10:21:14 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 275/300 - Slot #1 user#5 (20/40) - Slot #2 user#4 (35/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:16 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 256 - To: 259
+Þub 02, 2024 10:21:16 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 259 - To: 259 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:16 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 259/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:16 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 275 - To: 285
+Þub 02, 2024 10:21:16 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 285 - To: 283 - Slot #1 user#5 (21/40) - Slot #2 user#4 (36/40)
+Þub 02, 2024 10:21:16 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 283/300 - Slot #1 user#5 (21/40) - Slot #2 user#4 (36/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:18 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 259 - To: 262
+Þub 02, 2024 10:21:18 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 262 - To: 262 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:18 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 262/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:18 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 283 - To: 293
+Þub 02, 2024 10:21:18 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 293 - To: 291 - Slot #1 user#5 (22/40) - Slot #2 user#4 (37/40)
+Þub 02, 2024 10:21:18 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 291/300 - Slot #1 user#5 (22/40) - Slot #2 user#4 (37/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:18 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Rainy - To: Windy
+Þub 02, 2024 10:21:20 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 262 - To: 265
+Þub 02, 2024 10:21:20 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 265 - To: 265 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 265/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:20 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 291 - To: 294
+Þub 02, 2024 10:21:20 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 294 - To: 292 - Slot #1 user#5 (23/40) - Slot #2 user#4 (38/40)
+Þub 02, 2024 10:21:20 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 292/300 - Slot #1 user#5 (23/40) - Slot #2 user#4 (38/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:22 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 265 - To: 268
+Þub 02, 2024 10:21:22 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 268 - To: 268 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:22 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 268/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:22 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 292 - To: 295
+Þub 02, 2024 10:21:22 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 295 - To: 293 - Slot #1 user#5 (24/40) - Slot #2 user#4 (39/40)
+Þub 02, 2024 10:21:22 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 293/300 - Slot #1 user#5 (24/40) - Slot #2 user#4 (39/40) - Queue #1 user#6 (11/40) - Queue #2 user#7 (12/40)
+Þub 02, 2024 10:21:24 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 268 - To: 271
+Þub 02, 2024 10:21:24 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 271 - To: 271 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:24 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 271/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:24 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 293 - To: 296
+Þub 02, 2024 10:21:24 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 296 - To: 294 - Slot #1 user#5 (25/40) - Slot #2 user#4 (40/40)
+Þub 02, 2024 10:21:24 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 294/300 - Slot #1 user#5 (25/40) - Slot #2 user#6 (11/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:25 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Windy - To: Rainy
+Þub 02, 2024 10:21:26 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 271 - To: 274
+Þub 02, 2024 10:21:26 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 274 - To: 274 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 274/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:26 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:26 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (26/40) - Slot #2 user#6 (12/40)
+Þub 02, 2024 10:21:26 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (26/40) - Slot #2 user#6 (12/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:28 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 274 - To: 277
+Þub 02, 2024 10:21:28 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 277 - To: 277 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:28 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 277/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:28 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:28 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (27/40) - Slot #2 user#6 (13/40)
+Þub 02, 2024 10:21:28 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (27/40) - Slot #2 user#6 (13/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:29 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Windy - To: Rainy
+Þub 02, 2024 10:21:30 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 277 - To: 287
+Þub 02, 2024 10:21:30 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 287 - To: 287 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:30 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 287/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:30 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:30 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (28/40) - Slot #2 user#6 (14/40)
+Þub 02, 2024 10:21:30 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (28/40) - Slot #2 user#6 (14/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:32 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 287 - To: 297
+Þub 02, 2024 10:21:32 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 297 - To: 297 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:32 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 297/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:32 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:32 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (29/40) - Slot #2 user#6 (15/40)
+Þub 02, 2024 10:21:32 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (29/40) - Slot #2 user#6 (15/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:34 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 290 - To: 300
+Þub 02, 2024 10:21:34 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:34 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:34 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:34 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (30/40) - Slot #2 user#6 (16/40)
+Þub 02, 2024 10:21:34 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (30/40) - Slot #2 user#6 (16/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:36 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 290 - To: 300
+Þub 02, 2024 10:21:36 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:36 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:36 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:36 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (31/40) - Slot #2 user#6 (17/40)
+Þub 02, 2024 10:21:36 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (31/40) - Slot #2 user#6 (17/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:38 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 290 - To: 300
+Þub 02, 2024 10:21:38 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:38 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:38 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:38 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (32/40) - Slot #2 user#6 (18/40)
+Þub 02, 2024 10:21:38 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (32/40) - Slot #2 user#6 (18/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:39 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #1 - From: Rainy - To: Windy
+Þub 02, 2024 10:21:39 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Rainy - To: Windy
+Þub 02, 2024 10:21:40 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:40 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:40 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:40 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:40 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (33/40) - Slot #2 user#6 (19/40)
+Þub 02, 2024 10:21:40 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (33/40) - Slot #2 user#6 (19/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:42 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:42 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:42 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:42 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:42 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (34/40) - Slot #2 user#6 (20/40)
+Þub 02, 2024 10:21:42 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (34/40) - Slot #2 user#6 (20/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:44 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:44 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:44 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:44 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:44 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (35/40) - Slot #2 user#6 (21/40)
+Þub 02, 2024 10:21:44 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (35/40) - Slot #2 user#6 (21/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:46 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:46 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:46 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:46 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:46 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (36/40) - Slot #2 user#6 (22/40)
+Þub 02, 2024 10:21:46 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (36/40) - Slot #2 user#6 (22/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:48 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:48 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:48 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:48 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:48 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (37/40) - Slot #2 user#6 (23/40)
+Þub 02, 2024 10:21:48 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (37/40) - Slot #2 user#6 (23/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:50 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:50 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:50 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:50 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:50 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (38/40) - Slot #2 user#6 (24/40)
+Þub 02, 2024 10:21:50 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (38/40) - Slot #2 user#6 (24/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:52 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:52 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:52 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:52 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 297 - To: 300
+Þub 02, 2024 10:21:52 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (39/40) - Slot #2 user#6 (25/40)
+Þub 02, 2024 10:21:52 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#5 (39/40) - Slot #2 user#6 (25/40) - Queue #1 user#7 (12/40)
+Þub 02, 2024 10:21:53 ÖS LogFile WeatherChange
+INFO: WEATHER CHANGED: Station #2 - From: Windy - To: Rainy
+Þub 02, 2024 10:21:54 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #1 - From: 297 - To: 300
+Þub 02, 2024 10:21:54 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #1 - From: 300 - To: 300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:54 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #1 - CurrentEnergyStatus: 300/300 - Slot #1 None - Slot #2 None
+Þub 02, 2024 10:21:54 ÖS LogFile StationGeneratedEnergy
+INFO: ENERGY GENERATED: Station #2 - From: 290 - To: 300
+Þub 02, 2024 10:21:54 ÖS LogFile StationTransferredEnergy
+INFO: ENERGY TRANSFERRED: Station #2 - From: 300 - To: 298 - Slot #1 user#5 (40/40) - Slot #2 user#6 (26/40)
+Þub 02, 2024 10:21:54 ÖS LogFile StationChargingSlotsAndQueue
+INFO: STATION STATUS: Station #2 - CurrentEnergyStatus: 298/300 - Slot #1 user#7 (12/40) - Slot #2 user#6 (26/40)
+Þub 02, 2024 10:21:54 ÖS LogFile SystemFunctionalityEndlog
+INFO: System of station changed ended.
